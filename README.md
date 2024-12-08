@@ -1,1 +1,1 @@
-# play-pause-cv
+show thumb to pause and play yt
